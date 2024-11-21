@@ -1,1 +1,1 @@
-#Aplicativo para criação de abjetivos
+# Aplicativo para criação de abjetivos
