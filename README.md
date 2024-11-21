@@ -1,4 +1,4 @@
-# Aplicativo para criação de abjetivos
+# Aplicativo para criação de Objetivos
 
 ## Objetivos:
  - Criar Goal :white_check_mark:
